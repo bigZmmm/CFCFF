@@ -1,3 +1,4 @@
+
 **a hyperlink to the artifact:** [bigZmmm/CFCFF](https://github.com/bigZmmm/CFCFF)
 
 **a script to install and configure the artifact (The installation of Z3 requires manual configuration; here only the version is specified.) :** 
@@ -12,7 +13,7 @@
 
 Open the command line in the CGCFF* folder and enter `./ff -p <domain_path> -o <domain.pddl> -p <problem_path> -f <problem.pddl>` to run it. Alternatively, you can simply enter `./compile` to run the provided test cases. If the following results appear, it indicates that the execution was successful.
 
-image/running success.png
+![running success](https://github.com/user-attachments/assets/6eb0811b-a807-450c-83a7-bd02cd3cc510)
 
 **detailed instructions for using the artifact to replicate the results in the paper, including estimated resources if these are non-trivial :**
 
