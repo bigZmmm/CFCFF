@@ -1,5 +1,5 @@
 
-**a hyperlink to the artifact:** [bigZmmm/CFCFF](https://github.com/bigZmmm/CFCFF)
+**a hyperlink to the artifact:** [bigZmmm/CGCFF](https://github.com/bigZmmm/CGCFF)
 
 **a script to install and configure the artifact (The installation of Z3 requires manual configuration; here only the version is specified.) :** 
 
