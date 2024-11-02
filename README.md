@@ -12,7 +12,7 @@
 
 Open the command line in the CGCFF* folder and enter `./ff -p <domain_path> -o <domain.pddl> -p <problem_path> -f <problem.pddl>` to run it. Alternatively, you can simply enter `./compile` to run the provided test cases. If the following results appear, it indicates that the execution was successful.
 
-![running success](C:\Users\ZM\Desktop\CGCFF\image\running success.png)
+image/running success.png
 
 **detailed instructions for using the artifact to replicate the results in the paper, including estimated resources if these are non-trivial :**
 
